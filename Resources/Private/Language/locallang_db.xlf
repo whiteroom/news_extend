@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-12-28T08:24:09Z" product-name="news_extend">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_newsextend_domain_model_news.image_w2">
+				<source>double tiles width</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_newsextend_domain_model_news.image_h2">
+				<source>double tiles height</source>
+			</trans-unit>
+
+
+			<trans-unit id="tx_newsextend_domain_model_news.subheader">
+				<source>Subheader</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>

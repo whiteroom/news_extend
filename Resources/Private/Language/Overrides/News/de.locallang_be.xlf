@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:47:18Z" product-name="news" target-language="de">
+		<header/>
+		<body>
+			<trans-unit id="pi1_title" xml:space="preserve" approved="yes">
+				<source>News system</source>
+			<target state="translated">Projektverwaltungs-System</target></trans-unit>
+			
+            <trans-unit id="administration.title" xml:space="preserve" approved="yes">
+                <source>News administration</source>
+            <target state="final">Projektübersicht und -bearbeitung</target></trans-unit>
+			
+
+			<trans-unit id="flexforms_general.archiveRestriction.active" xml:space="preserve" approved="yes">
+				<source>Only active (non archived)</source>
+			<target state="translated">aktuelle Projekte</target></trans-unit>
+			
+			<trans-unit id="flexforms_general.archiveRestriction.archived" xml:space="preserve" approved="yes">
+				<source>Archived</source>
+			<target state="translated">archivierte Projekte</target></trans-unit>
+			
+			
+			<trans-unit id="flexforms_general.categoryConjunction.all" xml:space="preserve" approved="yes">
+				<source>Don't care, show all</source>
+			<target state="translated">Nicht berücksichtigen, alle Projekte anzeigen</target></trans-unit>
+			
+			
+			<trans-unit id="flexforms_general.categoryConjunction.or" xml:space="preserve" approved="yes">
+				<source>Show items with selected categories (OR)</source>
+			<target state="translated">Zeige Projekte mit den ausgewählten Kategorien (ODER)</target></trans-unit>
+			
+			<trans-unit id="flexforms_general.categoryConjunction.and" xml:space="preserve" approved="yes">
+				<source>Show items with selected categories (AND)</source>
+			<target state="translated">Zeige Projekte mit den ausgewählten Kategorien (UND)</target></trans-unit>
+			
+			
+			<trans-unit id="flexforms_general.categoryConjunction.notand" xml:space="preserve" approved="yes">
+				<source>Do NOT show items with selected categories (AND)</source>
+			<target state="translated">Zeige KEINE Projekte aus den ausgewählten Kategorien (UND)</target></trans-unit>
+			
+			
+			<trans-unit id="flexforms_general.categoryConjunction.notor" xml:space="preserve" approved="yes">
+				<source>Do NOT show items with selected categories (OR)</source>
+			<target state="translated">Zeige KEINE Projekte aus den ausgewählten Kategorien (ODER)</target></trans-unit>
+			
+	
+			
+			<trans-unit id="flexforms_general.topNewsRestriction" xml:space="preserve" approved="yes">
+				<source>Top News</source>
+			<target state="translated">Top-Projekte</target></trans-unit>
+			<trans-unit id="flexforms_general.topNewsRestriction.1" xml:space="preserve" approved="yes">
+				<source>only Top News records</source>
+			<target state="translated">Nur Top-Projekte</target></trans-unit>
+			<trans-unit id="flexforms_general.topNewsRestriction.2" xml:space="preserve" approved="yes">
+				<source>except Top News records</source>
+			<target state="translated">Keine Top-Projekte</target></trans-unit>
+			
+
+
+
+			<trans-unit id="administration.filter.hidden.hidden" xml:space="preserve">
+				<source>only hidden</source>
+				<target state="translated">ausgeblendete Projekte</target>
+			</trans-unit>
+			<trans-unit id="administration.filter.hidden.nonHidden" xml:space="preserve">
+				<source>only non-hidden</source>
+				<target state="translated">angezeigte Projekte</target>
+			</trans-unit>
+			
+			
+			<trans-unit id="news-folder" xml:space="preserve" approved="yes">
+				<source>News</source>
+			<target state="translated">Projekte</target></trans-unit>
+
+			
+		</body>
+	</file>
+</xliff>

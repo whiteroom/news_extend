@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:48:25Z" product-name="news" target-language="de">
+		<header/>
+		<body>
+			
+			
+			
+			<trans-unit id="tx_news_domain_model_news" xml:space="preserve" approved="yes">
+				<source>News</source>
+			<target state="translated">Datensatz</target></trans-unit>
+			
+			
+			
+			<trans-unit id="tx_news_domain_model_news.archive.placeholder" xml:space="preserve" approved="yes">
+				<source>Define when the news should be listed in the archive</source>
+			<target state="translated">Zeit, ab wann das Projekt ins Archiv geht</target></trans-unit>
+			
+			
+			<trans-unit id="tx_news_domain_model_news.related" xml:space="preserve" approved="yes">
+				<source>Related News</source>
+			<target state="translated">Ähnliche Projekte</target></trans-unit>
+			
+			<trans-unit id="tx_news_domain_model_news.related_from" xml:space="preserve" approved="yes">
+				<source>Related News (from)</source>
+			<target state="translated">Ist verwandt mit Projekt</target></trans-unit>
+			
+			
+
+			<trans-unit id="tx_news_domain_model_news.type.I.0" xml:space="preserve" approved="yes">
+				<source>News</source>
+			<target state="translated">Datensatz/Record</target></trans-unit>
+			
+
+			<trans-unit id="tx_news_domain_model_news.istopnews" xml:space="preserve" approved="yes">
+				<source>Top news</source>
+			<target state="translated">Top-Projekt</target></trans-unit>
+
+			
+			
+			<trans-unit id="tx_news_domain_model_category.single_pid" xml:space="preserve" approved="yes">
+				<source>Single-view page for news from this category</source>
+			<target state="translated">Einzelansicht für Projekte aus dieser Kategorie</target></trans-unit>
+			
+			
+			
+			<trans-unit id="tx_news_domain_model_category.shortcut" xml:space="preserve" approved="yes">
+				<source>News category shortcut</source>
+			<target state="translated">Projektkategorie Shortcut</target></trans-unit>
+
+			
+			<trans-unit id="tx_news_domain_model_link" xml:space="preserve" approved="yes">
+				<source>News Link Element</source>
+			<target state="translated">Veranstaltungs-Linkelement</target></trans-unit>
+			
+			
+			<trans-unit id="tx_news_domain_model_tag" xml:space="preserve" approved="yes">
+				<source>News Tag</source>
+			<target state="translated">Projekt-Tag</target></trans-unit>
+			
+			
+
+			<trans-unit id="be_user.tx_news_categorymounts" xml:space="preserve" approved="yes">
+				<source>News: Category restriction</source>
+			<target state="translated">Projekte: Kategoriebeschränkungen</target></trans-unit>
+		</body>
+	</file>
+</xliff>

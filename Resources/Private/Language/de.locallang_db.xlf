@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2016-12-28T08:24:09Z" product-name="news_extend" target-language="de">
+    <header/>
+    <body>
+
+      <trans-unit id="tx_newsextend_domain_model_news.image_w2">
+        <source>double tiles width</source>
+        <target>Kachelbreite 200%</target>
+      </trans-unit>
+      
+      <trans-unit id="tx_newsextend_domain_model_news.image_h2">
+        <source>double tiles height</source>
+        <target>Kachelhöhe 200%</target>
+      </trans-unit>
+
+      <trans-unit id="tx_newsextend_domain_model_news.subheader">
+        <source>Subheader</source>
+        <target>Untertitel</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

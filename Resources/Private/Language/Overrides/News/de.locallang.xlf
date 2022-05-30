@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:47:10Z" product-name="news" target-language="de">
+		<header/>
+		<body>
+
+
+			<trans-unit id="search-noresult" xml:space="preserve" approved="yes">
+				<source>No news found.</source>
+			<target state="translated">Zur Zeit keine Projekte gefunden.</target></trans-unit>
+			
+
+			<trans-unit id="related-news" xml:space="preserve" approved="yes">
+				<source>Related News</source>
+			<target state="translated">Verwandte Projekte</target></trans-unit>
+
+			
+			<trans-unit id="list_nonewsfound" xml:space="preserve" approved="yes">
+				<source>No news available.</source>
+			<target state="translated">Zur Zeit keine Projekte verfügbar</target></trans-unit>
+			
+			<trans-unit id="list_nocategoriesfound" xml:space="preserve" approved="yes">
+				<source>No categories available.</source>
+			<target state="translated">Keine Kategorien verfügbar.</target></trans-unit>
+		</body>
+	</file>
+</xliff>

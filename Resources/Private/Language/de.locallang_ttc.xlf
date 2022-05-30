@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2016-12-28T08:24:09Z" product-name="news_extend" target-language="de">
+    <header/>
+    <body>
+        
+      <trans-unit id="tabs.foo">
+        <source>Additional Tab</source>
+        <target>Noch ein Tab</target>
+      </trans-unit>
+      
+      <trans-unit id="tabs.bar">
+        <source>Additional Tab</source>
+        <target>Noch ein Tab</target>
+      </trans-unit>
+      
+    </body>
+  </file>
+</xliff>

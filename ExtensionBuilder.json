@@ -1,0 +1,111 @@
+{
+    "modules": [
+        {
+            "config": {
+                "position": [
+                    193,
+                    4
+                ]
+            },
+            "name": "New Model Object",
+            "value": {
+                "actionGroup": {
+                    "_default0_list": false,
+                    "_default1_show": false,
+                    "_default2_new_create": false,
+                    "_default3_edit_update": false,
+                    "_default4_delete": false,
+                    "customActions": []
+                },
+                "name": "News",
+                "objectsettings": {
+                    "addDeletedField": false,
+                    "addHiddenField": false,
+                    "addStarttimeEndtimeFields": false,
+                    "aggregateRoot": false,
+                    "categorizable": false,
+                    "description": "",
+                    "mapToTable": "",
+                    "parentClass": "\\GeorgRinger\\News\\Domain\\Model\\News",
+                    "sorting": false,
+                    "type": "Entity",
+                    "uid": "1292647328820"
+                },
+                "propertyGroup": {
+                    "properties": [
+                        
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "imageW2",
+                            "propertyType": "Boolean",
+                            "uid": "576703687961"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "imageH2",
+                            "propertyType": "Boolean",
+                            "uid": "576703687962"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "subheader",
+                            "propertyType": "String",
+                            "uid": "570499762114"
+                        }
+                    ]
+                },
+                "relationGroup": {
+                    "relations": []
+                }
+            }
+        }
+    ],
+    "properties": {
+        "backendModules": [],
+        "description": "",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 10.4.1-10.4.99\n",
+            "disableLocalization": true,
+            "disableVersioning": true,
+            "skipGenerateDocumentationTemplate": true,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "10.4.1-10.4.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "news_extend",
+        "name": "Additional fields for news",
+        "originalExtensionKey": "news_extend",
+        "originalVendorName": "GeorgRinger",
+        "persons": [
+            {
+                "company": "ringer.it",
+                "email": "",
+                "name": "Georg Ringer",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "GeorgRinger"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2016-12-28 08:24",
+        "extension_builder_version": "7.6.0",
+        "be_user": " (1)"
+    }
+}
