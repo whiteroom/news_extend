@@ -25,6 +25,22 @@
 				<source>Completion Date</source>
 			</trans-unit>
 
+			<trans-unit id="tx_news_domain_model_media.showinsizes" xml:space="preserve">
+				<source>Detail view: show in what sizes?</source>
+			</trans-unit>
+
+			<trans-unit id="tx_news_domain_model_media.showinsizes.0" xml:space="preserve">
+				<source>Default (ignore)</source>
+			</trans-unit>
+
+			<trans-unit id="tx_news_domain_model_media.showinsizes.1" xml:space="preserve">
+				<source>Expand to full width</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_news_domain_model_media.showinsizes.2" xml:space="preserve">
+				<source>Show half width only</source>
+			</trans-unit>
+
 		</body>
 	</file>
 </xliff>
