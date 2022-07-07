@@ -4,20 +4,30 @@
     <header/>
     <body>
 
-      <trans-unit id="tx_newsextend_domain_model_news.image_w2">
-        <source>double tiles width</source>
-        <target>Kachelbreite 200%</target>
-      </trans-unit>
-      
-      <trans-unit id="tx_newsextend_domain_model_news.image_h2">
-        <source>double tiles height</source>
-        <target>Kachelhöhe 200%</target>
-      </trans-unit>
-
-      <trans-unit id="tx_newsextend_domain_model_news.subheader">
-        <source>Subheader</source>
-        <target>Untertitel</target>
-      </trans-unit>
+			<trans-unit id="tx_newsextend_domain_model_news.ishighlighted">
+				<source>is highlighted?</source>
+				<target>mit roter Markierung?</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_newsextend_domain_model_news.image_w2">
+				<source>double tiles width</source>
+				<target>Kachelbreite 200%</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_newsextend_domain_model_news.image_h2">
+				<source>double tiles height</source>
+				<target>Kachelhöhe 200%</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_newsextend_domain_model_news.subheader">
+				<source>Subheader</source>
+				<target>Untertitel</target>
+			</trans-unit>
+			
+			<trans-unit id="tx_newsextend_domain_model_news.completion">
+				<source>Completion Date</source>
+				<target>Datum Fertigstellung (Werkliste)</target>
+			</trans-unit>
 
     </body>
   </file>

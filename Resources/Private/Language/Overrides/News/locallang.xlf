@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:47:10Z" product-name="news">
+		<header/>
+		<body>
+			<trans-unit id="date-opening" xml:space="preserve">
+				<source>Opening</source>
+			</trans-unit>
+			
+			<trans-unit id="categories" xml:space="preserve">
+				<source>Categories</source>
+			</trans-unit>
+			<trans-unit id="tags" xml:space="preserve">
+				<source>Services</source>
+			</trans-unit>
+			
+			
+		</body>
+	</file>
+</xliff>

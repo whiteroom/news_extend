@@ -5,14 +5,39 @@
 		<body>
 
 
+			<trans-unit id="date-opening" xml:space="preserve" approved="yes">
+				<source>Opening</source>
+				<target state="translated">Fertigstellung</target>
+			</trans-unit>
+			
+			<trans-unit id="categories" xml:space="preserve">
+				<source>Categories</source>
+				<target state="translated">Kategorie</target>
+			</trans-unit>
+			
+			
+			<trans-unit id="tags" xml:space="preserve">
+				<source>Services</source>
+				<target state="translated">Leistungen</target>
+			</trans-unit>
+			
+			
+			
+			
+
 			<trans-unit id="search-noresult" xml:space="preserve" approved="yes">
 				<source>No news found.</source>
 			<target state="translated">Zur Zeit keine Projekte gefunden.</target></trans-unit>
 			
 
+			<trans-unit id="related-files" xml:space="preserve" approved="yes">
+				<source>Related Files</source>
+			<target state="translated">Downloads</target></trans-unit>
+			
 			<trans-unit id="related-news" xml:space="preserve" approved="yes">
 				<source>Related News</source>
 			<target state="translated">Verwandte Projekte</target></trans-unit>
+
 
 			
 			<trans-unit id="list_nonewsfound" xml:space="preserve" approved="yes">

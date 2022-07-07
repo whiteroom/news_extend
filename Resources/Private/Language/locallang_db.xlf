@@ -4,6 +4,10 @@
 		<header/>
 		<body>
 
+			<trans-unit id="tx_newsextend_domain_model_news.ishighlighted">
+				<source>is highlighted?</source>
+			</trans-unit>
+			
 			<trans-unit id="tx_newsextend_domain_model_news.image_w2">
 				<source>double tiles width</source>
 			</trans-unit>
@@ -15,6 +19,10 @@
 
 			<trans-unit id="tx_newsextend_domain_model_news.subheader">
 				<source>Subheader</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_newsextend_domain_model_news.completion">
+				<source>Completion Date</source>
 			</trans-unit>
 
 		</body>

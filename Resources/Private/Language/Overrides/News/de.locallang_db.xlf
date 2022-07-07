@@ -25,6 +25,10 @@
 				<source>Related News (from)</source>
 			<target state="translated">Ist verwandt mit Projekt</target></trans-unit>
 			
+			<trans-unit id="tx_news_domain_model_news.fal_related_files" xml:space="preserve" approved="yes">
+				<source>Related Files</source>
+			<target state="translated">Projektdatenblätter und Downloads</target></trans-unit>
+			
 			
 
 			<trans-unit id="tx_news_domain_model_news.type.I.0" xml:space="preserve" approved="yes">
@@ -35,6 +39,10 @@
 			<trans-unit id="tx_news_domain_model_news.istopnews" xml:space="preserve" approved="yes">
 				<source>Top news</source>
 			<target state="translated">Top-Projekt</target></trans-unit>
+			
+			<trans-unit id="tx_news_domain_model_news.teaser" xml:space="preserve" approved="yes">
+				<source>Teaser</source>
+			<target state="translated">Kennzahlen</target></trans-unit>
 
 			
 			

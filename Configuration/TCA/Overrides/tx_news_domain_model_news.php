@@ -34,15 +34,44 @@ $tmp_news_extend_columns = [
         ]
 
     ],
+    'ishighlighted' => [
+        'exclude' => true,
+        'label' => 'LLL:EXT:news_extend/Resources/Private/Language/locallang_db.xlf:tx_newsextend_domain_model_news.ishighlighted',
+        'config' => [
+            'type' => 'check',
+            'renderType' => 'checkboxToggle',
+            'default' => 0,
+            'items' => [
+                [
+                    0 => '',
+                    1 => '',
+                ]
+            ],
+        ]
+    ],
     'subheader' => [
-        'exclude' => 0,
+        'exclude' => true,
         'label' => 'LLL:EXT:news_extend/Resources/Private/Language/locallang_db.xlf:tx_newsextend_domain_model_news.subheader',
         'config' => [
+            'type' => 'text',
+            'cols' => 30,
+            'rows' => 3,
+            'behaviour' => [
+                'allowLanguageSynchronization' => true,
+            ],
+        ]
+    ],
+    'completion' => [
+        'exclude' => true,
+        'l10n_mode' => 'copy',
+        'label' => 'LLL:EXT:news_extend/Resources/Private/Language/locallang_db.xlf:tx_newsextend_domain_model_news.completion',
+        'config' => [
             'type' => 'input',
+            'renderType' => 'inputDateTime',
             'size' => 30,
-            'eval' => 'trim'
-        ],
-
+            'eval' => 'datetime,int',
+            'default' => 0
+        ]
     ],
 ];
 
@@ -51,8 +80,10 @@ $tmp_news_extend_columns = [
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addFieldsToPalette(
  'tx_news_domain_model_news',
  'paletteCore',
- 'image_w2,image_h2'
+ 'type,istopnews,ishighlighted,image_w2,image_h2'
 );
 
-\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes('tx_news_domain_model_news', 'subheader', '', 'after:title');
 
+
+\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes('tx_news_domain_model_news', 'subheader', '', 'after:title');
+\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes('tx_news_domain_model_news', 'completion', '', 'after:subheader');
