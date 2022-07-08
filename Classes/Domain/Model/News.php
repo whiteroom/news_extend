@@ -1,5 +1,5 @@
 <?php
-namespace GeorgRinger\NewsExtend\Domain\Model;
+namespace WhiteRoom\NewsExtend\Domain\Model;
 
 /***
  *

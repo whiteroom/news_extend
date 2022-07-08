@@ -35,18 +35,18 @@
 			</trans-unit>
 
 			<trans-unit id="tx_news_domain_model_media.showinsizes.0" xml:space="preserve">
-				<source>Default (ignore)</source>
-				<target>Default (ignorieren)</target>
+				<source>Default (ignore, auto)</source>
+				<target>Default (ignorieren, auto)</target>
 			</trans-unit>
 
 			<trans-unit id="tx_news_domain_model_media.showinsizes.1" xml:space="preserve">
 				<source>Expand to full width</source>
-				<target>Ausdehnen ganze Breite</target>
+				<target>100% Breite</target>
 			</trans-unit>
 			
 			<trans-unit id="tx_news_domain_model_media.showinsizes.2" xml:space="preserve">
 				<source>Show half width only</source>
-				<target>Halbe Breite</target>
+				<target>50% Breite (muss nicht gesetzt werden, ist Standard)</target>
 			</trans-unit>
 
     </body>
