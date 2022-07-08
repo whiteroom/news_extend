@@ -11,3 +11,10 @@ CREATE TABLE tx_news_domain_model_news (
 	subheader text,
 
 );
+
+#
+# Table structure for table 'sys_file_reference'
+#
+CREATE TABLE sys_file_reference (
+	showinsizes tinyint(4) DEFAULT '0' NOT NULL
+);

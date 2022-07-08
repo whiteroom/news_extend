@@ -77,13 +77,6 @@ $tmp_news_extend_columns = [
 
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addTCAcolumns('tx_news_domain_model_news', $tmp_news_extend_columns);
 
-\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addFieldsToPalette(
- 'tx_news_domain_model_news',
- 'paletteCore',
- 'type,istopnews,ishighlighted,image_w2,image_h2'
-);
-
-
+\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addFieldsToPalette('tx_news_domain_model_news', 'paletteSlug', '--linebreak--,completion,image_w2,image_h2,ishighlighted,');
 
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes('tx_news_domain_model_news', 'subheader', '', 'after:title');
-\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes('tx_news_domain_model_news', 'completion', '', 'after:subheader');

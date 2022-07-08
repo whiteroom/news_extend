@@ -1,17 +1,26 @@
 TCEFORM {
 
+
+	sys_file_reference {
+		showinpreview.disabled = 0
+	}
     
     tt_content {
-        pi_flexform {
-            news_pi1 {
-                
+	    
+	    tx_news_domain_model_news {
+			image_w2.disabled = 0
+			image_h2.disabled = 0
+			ishighlighted.disabled = 0
+			completion.disabled = 0
+			subheader.disabled = 0
+	    		
+	    }
 
-                }
-
-            }
+	    pi_flexform {
+	        news_pi1 {
+		        
+	        }
         }
     }
-}
-
 
 }

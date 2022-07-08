@@ -1,5 +1,5 @@
 <?php
-namespace GeorgRinger\News\Domain\Model;
+namespace WhiteRoom\NewsExtend\Domain\Model;
 
 /**
  * This file is part of the "news" Extension for TYPO3 CMS.
@@ -8,10 +8,11 @@ namespace GeorgRinger\News\Domain\Model;
  * LICENSE.txt file that was distributed with this source code.
  */
 
+
 /**
  * File Reference
  */
-class FileReference extends \TYPO3\CMS\Extbase\Domain\Model\FileReference
+class FileReference extends \GeorgRinger\News\Domain\Model\FileReference
 {
 
 
