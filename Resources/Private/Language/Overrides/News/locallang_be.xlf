@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:47:18Z" product-name="news">
+		<header/>
+		<body>
+			<trans-unit id="pi1_title" xml:space="preserve">
+				<source>Project administration</source>
+			</trans-unit>
+			
+			
+			<trans-unit id="administration.title" xml:space="preserve">
+				<source>Project records: overview and administration</source>
+			</trans-unit>
+			
+		
+
+			<trans-unit id="flexforms_general.topNewsRestriction" xml:space="preserve">
+				<source>Hot: most recent</source>
+			</trans-unit>
+			<trans-unit id="flexforms_general.topNewsRestriction.1" xml:space="preserve">
+				<source>only &quot;Hot&quot; labelled records</source>
+			</trans-unit>
+			<trans-unit id="flexforms_general.topNewsRestriction.2" xml:space="preserve">
+				<source>except &quot;Hot&quot; labelled records</source>
+			</trans-unit>
+			<trans-unit id="flexforms_general.singleNews" xml:space="preserve">
+				<source>Show a single record</source>
+			</trans-unit>
+			
+			<trans-unit id="flexforms_additional.topNewsFirst" xml:space="preserve">
+				<source>Sort &quot;Hot&quot; labelled before</source>
+			</trans-unit>
+			
+	
+			
+		</body>
+	</file>
+</xliff>

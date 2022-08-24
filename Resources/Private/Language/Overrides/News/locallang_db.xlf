@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:48:25Z" product-name="news" target-language="de">
+		<header/>
+		<body>
+			
+			<trans-unit id="tx_news_domain_model_news.istopnews" xml:space="preserve" approved="yes">
+				<source>Hot: most recent…</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_news_domain_model_news.teaser" xml:space="preserve" approved="yes">
+				<source>Abstract</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>

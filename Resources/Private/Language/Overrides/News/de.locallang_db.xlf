@@ -14,20 +14,20 @@
 			
 			<trans-unit id="tx_news_domain_model_news.archive.placeholder" xml:space="preserve" approved="yes">
 				<source>Define when the news should be listed in the archive</source>
-			<target state="translated">Zeit, ab wann das Projekt ins Archiv geht</target></trans-unit>
+			<target state="translated">Zeit, ab wann der Datensatz ins Archiv geht</target></trans-unit>
 			
 			
 			<trans-unit id="tx_news_domain_model_news.related" xml:space="preserve" approved="yes">
 				<source>Related News</source>
-			<target state="translated">Ähnliche Projekte</target></trans-unit>
+			<target state="translated">Ähnliche Datensätze</target></trans-unit>
 			
 			<trans-unit id="tx_news_domain_model_news.related_from" xml:space="preserve" approved="yes">
 				<source>Related News (from)</source>
-			<target state="translated">Ist verwandt mit Projekt</target></trans-unit>
+			<target state="translated">Ist verwandt mit Datensatz</target></trans-unit>
 			
 			<trans-unit id="tx_news_domain_model_news.fal_related_files" xml:space="preserve" approved="yes">
 				<source>Related Files</source>
-			<target state="translated">Projektdatenblätter und Downloads</target></trans-unit>
+			<target state="translated">Präsentationen und Downloads</target></trans-unit>
 			
 			
 
@@ -37,29 +37,29 @@
 			
 
 			<trans-unit id="tx_news_domain_model_news.istopnews" xml:space="preserve" approved="yes">
-				<source>Top news</source>
-			<target state="translated">Top-Projekt</target></trans-unit>
+				<source>Hot: most recent…</source>
+			<target state="translated">Hot: brandaktuell…</target></trans-unit>
 			
 			<trans-unit id="tx_news_domain_model_news.teaser" xml:space="preserve" approved="yes">
 				<source>Teaser</source>
-			<target state="translated">Kennzahlen</target></trans-unit>
+			<target state="translated">Abstract</target></trans-unit>
 
 			
 			
 			<trans-unit id="tx_news_domain_model_category.single_pid" xml:space="preserve" approved="yes">
 				<source>Single-view page for news from this category</source>
-			<target state="translated">Einzelansicht für Projekte aus dieser Kategorie</target></trans-unit>
+			<target state="translated">Einzelansicht für Einträge aus dieser Kategorie</target></trans-unit>
 			
 			
 			
 			<trans-unit id="tx_news_domain_model_category.shortcut" xml:space="preserve" approved="yes">
 				<source>News category shortcut</source>
-			<target state="translated">Projektkategorie Shortcut</target></trans-unit>
+			<target state="translated">Kategorie Shortcut</target></trans-unit>
 
 			
 			<trans-unit id="tx_news_domain_model_link" xml:space="preserve" approved="yes">
 				<source>News Link Element</source>
-			<target state="translated">Veranstaltungs-Linkelement</target></trans-unit>
+			<target state="translated">Projekt-Linkelement</target></trans-unit>
 			
 			
 			<trans-unit id="tx_news_domain_model_tag" xml:space="preserve" approved="yes">
@@ -70,7 +70,7 @@
 
 			<trans-unit id="be_user.tx_news_categorymounts" xml:space="preserve" approved="yes">
 				<source>News: Category restriction</source>
-			<target state="translated">Projekte: Kategoriebeschränkungen</target></trans-unit>
+			<target state="translated">Projekt: Kategoriebeschränkungen</target></trans-unit>
 		</body>
 	</file>
 </xliff>

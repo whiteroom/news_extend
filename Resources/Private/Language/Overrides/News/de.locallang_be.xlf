@@ -4,74 +4,78 @@
 		<header/>
 		<body>
 			<trans-unit id="pi1_title" xml:space="preserve" approved="yes">
-				<source>News system</source>
-			<target state="translated">Projektverwaltungs-System</target></trans-unit>
+				<source>Project administration</source>
+			<target state="translated">Projekt Verwaltung</target></trans-unit>
 			
             <trans-unit id="administration.title" xml:space="preserve" approved="yes">
-                <source>News administration</source>
-            <target state="final">Projektübersicht und -bearbeitung</target></trans-unit>
+                <source>Project records: overview and administration</source>
+            <target state="final">Projekt Einträge: Übersicht und -bearbeitung</target></trans-unit>
 			
 
 			<trans-unit id="flexforms_general.archiveRestriction.active" xml:space="preserve" approved="yes">
 				<source>Only active (non archived)</source>
-			<target state="translated">aktuelle Projekte</target></trans-unit>
+			<target state="translated">Nur Aktive (nicht archivierte)</target></trans-unit>
 			
 			<trans-unit id="flexforms_general.archiveRestriction.archived" xml:space="preserve" approved="yes">
 				<source>Archived</source>
-			<target state="translated">archivierte Projekte</target></trans-unit>
+			<target state="translated">Archivierte</target></trans-unit>
 			
 			
 			<trans-unit id="flexforms_general.categoryConjunction.all" xml:space="preserve" approved="yes">
 				<source>Don't care, show all</source>
-			<target state="translated">Nicht berücksichtigen, alle Projekte anzeigen</target></trans-unit>
+			<target state="translated">Nicht berücksichtigen, alle anzeigen</target></trans-unit>
 			
 			
 			<trans-unit id="flexforms_general.categoryConjunction.or" xml:space="preserve" approved="yes">
 				<source>Show items with selected categories (OR)</source>
-			<target state="translated">Zeige Projekte mit den ausgewählten Kategorien (ODER)</target></trans-unit>
+			<target state="translated">Zeige Objekte mit den ausgewählten Kategorien (ODER)</target></trans-unit>
 			
 			<trans-unit id="flexforms_general.categoryConjunction.and" xml:space="preserve" approved="yes">
 				<source>Show items with selected categories (AND)</source>
-			<target state="translated">Zeige Projekte mit den ausgewählten Kategorien (UND)</target></trans-unit>
+			<target state="translated">Zeige Objekte mit den ausgewählten Kategorien (UND)</target></trans-unit>
 			
 			
 			<trans-unit id="flexforms_general.categoryConjunction.notand" xml:space="preserve" approved="yes">
 				<source>Do NOT show items with selected categories (AND)</source>
-			<target state="translated">Zeige KEINE Projekte aus den ausgewählten Kategorien (UND)</target></trans-unit>
+			<target state="translated">Zeige KEINE Objekte aus den ausgewählten Kategorien (UND)</target></trans-unit>
 			
 			
 			<trans-unit id="flexforms_general.categoryConjunction.notor" xml:space="preserve" approved="yes">
 				<source>Do NOT show items with selected categories (OR)</source>
-			<target state="translated">Zeige KEINE Projekte aus den ausgewählten Kategorien (ODER)</target></trans-unit>
+			<target state="translated">Zeige KEINE Objekte aus den ausgewählten Kategorien (ODER)</target></trans-unit>
 			
 	
 			
 			<trans-unit id="flexforms_general.topNewsRestriction" xml:space="preserve" approved="yes">
-				<source>Top News</source>
-			<target state="translated">Top-Projekte</target></trans-unit>
+				<source>Hot: most recent…</source>
+			<target state="translated">Hot: brandaktuell…</target></trans-unit>
 			<trans-unit id="flexforms_general.topNewsRestriction.1" xml:space="preserve" approved="yes">
-				<source>only Top News records</source>
-			<target state="translated">Nur Top-Projekte</target></trans-unit>
+				<source>only &quot;Hot&quot; labelled records</source>
+			<target state="translated">nur &quot;Hot&quot; markierte Einträge</target></trans-unit>
 			<trans-unit id="flexforms_general.topNewsRestriction.2" xml:space="preserve" approved="yes">
-				<source>except Top News records</source>
-			<target state="translated">Keine Top-Projekte</target></trans-unit>
+				<source>except &quot;Hot&quot; labelled records</source>
+			<target state="translated">keine &quot;Hot&quot; markierten Einträge</target></trans-unit>
+			
+			<trans-unit id="flexforms_additional.topNewsFirst" xml:space="preserve">
+				<source>Sort &quot;Hot&quot; labelled before</source>
+			<target state="translated">&quot;Hot&quot; markierte Einträge zuoberst</target></trans-unit>
 			
 
 
 
 			<trans-unit id="administration.filter.hidden.hidden" xml:space="preserve">
 				<source>only hidden</source>
-				<target state="translated">ausgeblendete Projekte</target>
+				<target state="translated">nur ausgeblendete</target>
 			</trans-unit>
 			<trans-unit id="administration.filter.hidden.nonHidden" xml:space="preserve">
 				<source>only non-hidden</source>
-				<target state="translated">angezeigte Projekte</target>
+				<target state="translated">nur aktive</target>
 			</trans-unit>
 			
 			
 			<trans-unit id="news-folder" xml:space="preserve" approved="yes">
 				<source>News</source>
-			<target state="translated">Projekte</target></trans-unit>
+			<target state="translated">Meetings</target></trans-unit>
 
 			
 		</body>
